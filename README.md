@@ -1,6 +1,3 @@
-Dưới đây là nội dung **README.md** gợi ý dành cho project Python của bạn, phân tích cảm xúc từ đánh giá sản phẩm:
-
----
 
 # 📊 Phân Tích Cảm Xúc Từ Đánh Giá Sản Phẩm (Sentiment Analysis)
 
